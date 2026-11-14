@@ -69,6 +69,10 @@ npm run preview
 The only runtime dependencies are **KAPLAY 3001.x** and **Vite**. No other
 engine, physics library or visual editor is used.
 
+The browser build is published at <https://libgale.surge.sh>. See
+[`docs/DEPLOY.md`](docs/DEPLOY.md) for the deploy commands and how the public
+GitHub snapshot is produced.
+
 ---
 
 ## Controls
