@@ -1,0 +1,12 @@
+node_modules/
+dist/
+screenshots/
+.preview.png
+*.log
+.DS_Store
+Thumbs.db
+.vite/
+
+# Raw asset archives are source material only and must not be redistributed.
+*.zip
+tools/vendor/
