@@ -10,6 +10,15 @@ librarian who has no body but has a purpose.
 Keyboard required, desktop recommended. Click the canvas once if the browser
 has not given it focus yet.
 
+<p align="center">
+  <a href="https://libgale.surge.sh">
+    <img src="docs/media/hub.png" width="49%" alt="The library hub" />
+  </a>
+  <a href="https://libgale.surge.sh">
+    <img src="docs/media/battle.png" width="49%" alt="A Rage Book battle" />
+  </a>
+</p>
+
 > The library is quiet. Not empty—quiet. The kind of quiet that has been
 > waiting for years.
 >
